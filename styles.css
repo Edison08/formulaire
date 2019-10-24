@@ -1,0 +1,15 @@
+#infos > #civ{
+    width: 380px;
+}
+
+#informations > label{
+    display:block;
+    float:left;
+    width:190px;
+}
+    
+#informations > input{
+    float: left;
+    width: 235px;
+}
+
